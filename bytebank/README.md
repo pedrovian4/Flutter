@@ -3,7 +3,7 @@
 <h4>This project was built during Alura's class</h4>
 
 <p> A simple front-end app of wire  transference &nbsp (All the app is in portuguese)</p>
-<img src="ScreenShots/Screenshot_1634760473.png">
-<img src="ScreenShots/Screenshot_1634760470.png"><br>
-<img src="ScreenShots/Screenshot_1634760482.png">
-<img src="ScreenShots/Screenshot_1634760489.png">
+<img style="width: 0.3 rem; height:0.3rem"src="ScreenShots/Screenshot_1634760473.png">
+<img tyle="width: 0.3 rem; height:0.3rem"src="ScreenShots/Screenshot_1634760470.png"><br>
+<img tyle="width: 0.3 rem; height:0.3rem"src="ScreenShots/Screenshot_1634760482.png">
+<img tyle="width: 0.3 rem; height:0.3rem"src="ScreenShots/Screenshot_1634760489.png">
