@@ -8,7 +8,7 @@
   <img style="width: 200px; height: 400px; margin-left:10px"src="ScreenShots/Screenshot_1634760470.png">
 </div>
 
-<div style= "display:inline-block; margin-top: 15px">
+<div style= "display:inline-block; margin-top: 50px">
   <img style="width: 200px; height: 400px" src="ScreenShots/Screenshot_1634760482.png">
   <img style="width: 200px; height: 400px margin-left:10px" src="ScreenShots/Screenshot_1634760489.png">
 </div>
