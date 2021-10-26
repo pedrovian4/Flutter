@@ -7,6 +7,7 @@ late Jokenpo u = Jokenpo();
 class Jokenpo {
   // ignore: unused_field
   final _choices = ['Scissors', 'Rock', 'paper'];
+  late String addres;
 
   late String result = " ";
 
@@ -22,17 +23,6 @@ class Jokenpo {
     result = 'Draw';
     // ignore: avoid_print
     print('Computer: $computerChoice user: $userInput');
-
-    if ((_choices[0] == computerChoice && _choices[2] == userInput) ||
-        (_choices[2] == computerChoice && _choices[0] == userInput) ||
-        (_choices[1] == computerChoice && _choices[2] == userInput)) {
-      result = 'Lost';
-    }
-    if ((_choices[0] == computerChoice && _choices[1] == userInput) ||
-        (_choices[1] == computerChoice && _choices[2] == userInput) ||
-        (_choices[2] == computerChoice && _choices[0] == userInput)) {
-      result = 'Won';
-    }
 
     return result;
   }

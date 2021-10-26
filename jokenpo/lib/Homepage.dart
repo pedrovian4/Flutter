@@ -77,6 +77,9 @@ class _HomeState extends State<Home> {
             )
           ],
         ),
+        Container(
+          color: Colors.amber,
+        ),
         SizedBox(height: 30),
         Text('You ${u.result}',
             style: TextStyle(fontSize: 30.9, fontWeight: FontWeight.bold)),
